@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Amazing_Python_Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_2.py" afterDir="false" />
+    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aagamaar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aagamaar/OPENCV_PROJECTS",
+    "accountId": "c2773bc5-a2af-4cf9-b9ed-2514ad8bbc64"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -71,6 +77,15 @@
       <option name="presentableId" value="Default" />
       <updated>1734163183767</updated>
     </task>
+    <task id="LOCAL-00001" summary="Learning OPENCV basics">
+      <option name="closed" value="true" />
+      <created>1734197708245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734197708245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning OPENCV basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning OPENCV basics" />
   </component>
 </project>
