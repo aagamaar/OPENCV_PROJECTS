@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics">
-      <change afterPath="$PROJECT_DIR$/Chapter_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.Chapter_2.executor": "Run",
     "Python.Chapter_3.executor": "Run",
     "Python.Chapter_4.executor": "Run",
+    "Python.Chapter_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
