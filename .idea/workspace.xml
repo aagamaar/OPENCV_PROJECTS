@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics" />
+    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics">
+      <change beforePath="$PROJECT_DIR$/Chapter_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
