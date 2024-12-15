@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics">
+      <change afterPath="$PROJECT_DIR$/Resources_/shapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources_/small_bird.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources_" beforeDir="false" afterPath="$PROJECT_DIR$/Resources_" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;aagamaar&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;aagamaar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aagamaar/OPENCV_PROJECTS&quot;,
+    &quot;accountId&quot;: &quot;c2773bc5-a2af-4cf9-b9ed-2514ad8bbc64&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qCOe61D8QtICU0f711QMM2ktZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Chapter_1.executor": "Run",
+    "Python.Chapter_2.executor": "Run",
+    "Python.Chapter_3.executor": "Run",
+    "Python.Chapter_4.executor": "Run",
+    "Python.Chapter_5.executor": "Run",
+    "Python.Chapter_6.executor": "Run",
+    "Python.Chapter_7.executor": "Run",
+    "Python.Chapter_8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/AAGAMA AR/PycharmProjects/Amazing_Python_Projects/Resources_",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AAGAMA AR\PycharmProjects\Amazing_Python_Projects\Resources_" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AAGAMA AR\PycharmProjects\Amazing_Python_Projects\Resources_" />
+      <recent name="C:\Users\AAGAMA AR\PycharmProjects\Amazing_Python_Projects\Resources_\video\" />
+      <recent name="C:\Users\AAGAMA AR\PycharmProjects\Amazing_Python_Projects\Resources_\video" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="" />
+      <created>1734163183767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734163183767</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Learning OPENCV basics">
+      <option name="closed" value="true" />
+      <created>1734197708245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734197708245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learning OPENCV basics">
+      <option name="closed" value="true" />
+      <created>1734198819379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734198819379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning OPENCV basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning OPENCV basics" />
+  </component>
+</project>
