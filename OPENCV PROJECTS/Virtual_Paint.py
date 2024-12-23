@@ -8,9 +8,11 @@ cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 cap.set(10, 150)  # Adjust brightness as needed
 
-myColors =[[113,75,109,152,255,255]]
+myColors =[[113,75,109,152,255,255],
+           [17,54,156,40,140,255]]
 
-myColorValues = [[255,0,0]]
+myColorValues = [[255,0,0],
+                 [0,255,255]]
 
 myPoints = []  # [x, y, colorId]
 
