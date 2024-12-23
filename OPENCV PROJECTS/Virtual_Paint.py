@@ -13,6 +13,7 @@ myColors =[[113,75,109,152,255,255],
 
 myColorValues = [[255,0,0],
                  [0,255,255]]
+#WE ARE WRITING IN THE ORDER OF BGR AND NOT RGB
 
 myPoints = []  # [x, y, colorId]
 
