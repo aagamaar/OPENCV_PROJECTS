@@ -1,5 +1,5 @@
 import cv2
-print("Package imported ")
+print("Package is imported ")
 
 #FOR IMAGE
 

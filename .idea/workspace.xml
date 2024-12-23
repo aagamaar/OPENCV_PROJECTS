@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics">
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/Amazing_Python_Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Resources_" beforeDir="false" afterPath="$PROJECT_DIR$/Resources_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/6394054-uhd_4096_2048_24fps.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/ghostly-train.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/programming_quote.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/woman1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/woman2.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Resources_" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -79,7 +69,7 @@
     "Python.Chapter_8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/AAGAMA AR/PycharmProjects/Amazing_Python_Projects/Resources_",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
