@@ -9,10 +9,12 @@ cap.set(4, frameHeight)
 cap.set(10, 150)  # Adjust brightness as needed
 
 myColors =[[113,75,109,152,255,255],
-           [17,54,156,40,140,255]]
+           [17,54,156,40,140,255],
+           [0,92,190,179,160,232]]
 
 myColorValues = [[255,0,0],
-                 [0,255,255]]
+                 [0,255,255],
+                 [0,128,255]]
 #WE ARE WRITING IN THE ORDER OF BGR AND NOT RGB
 
 myPoints = []  # [x, y, colorId]
