@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics">
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/Amazing_Python_Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources_/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_" beforeDir="false" afterPath="$PROJECT_DIR$/Resources_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/6394054-uhd_4096_2048_24fps.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/ghostly-train.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/programming_quote.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/woman1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources_/woman2.jpeg" beforeDir="false" />
-    </list>
+    <list default="true" id="b8d4264c-e51e-44ea-8d82-b10c0a180a7b" name="Changes" comment="Learning OPENCV basics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,12 +38,12 @@
     &quot;author&quot;: &quot;aagamaar&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/aagamaar/OPENCV_PROJECTS&quot;,
-    &quot;accountId&quot;: &quot;c2773bc5-a2af-4cf9-b9ed-2514ad8bbc64&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aagamaar/OPENCV_PROJECTS.git",
+    "accountId": "c2773bc5-a2af-4cf9-b9ed-2514ad8bbc64"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -77,9 +63,12 @@
     "Python.Chapter_6.executor": "Run",
     "Python.Chapter_7.executor": "Run",
     "Python.Chapter_8.executor": "Run",
+    "Python.Chapter_9.executor": "Run",
+    "Python.Virtual_Paint.executor": "Run",
+    "Python.color_picker.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/AAGAMA AR/PycharmProjects/Amazing_Python_Projects/Resources_",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
